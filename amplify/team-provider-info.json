@@ -1,0 +1,19 @@
+{
+    "ampdev": {
+        "awscloudformation": {
+            "AuthRoleName": "squidder-ampdev-20191031150426-authRole",
+            "UnauthRoleArn": "arn:aws:iam::127738093458:role/squidder-ampdev-20191031150426-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::127738093458:role/squidder-ampdev-20191031150426-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "squidder-ampdev-20191031150426-deployment",
+            "UnauthRoleName": "squidder-ampdev-20191031150426-unauthRole",
+            "StackName": "squidder-ampdev-20191031150426",
+            "StackId": "arn:aws:cloudformation:us-west-2:127738093458:stack/squidder-ampdev-20191031150426/09384100-fc22-11e9-bdff-0284c9f60df0"
+        },
+        "categories": {
+            "auth": {
+                "squidder63315f0c": {}
+            }
+        }
+    }
+}
